@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akasha53&label=Profile%20views&color=0e75b6&style=flat" alt="akasha53" /> </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -14,3 +15,8 @@
 My Root-me-status:
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Akasha5300)
+
+Try Hack Me satus :
+
+
+<p> <img src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png" alt="TryHackMe"></p>

@@ -19,4 +19,4 @@ My Root-me-status:
 Try Hack Me satus :
 
 
-<p> <img src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png" alt="TryHackMe"></p>
+<p>  <img src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png" alt="TryHackMe"> </p>

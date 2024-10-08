@@ -1,6 +1,6 @@
 # Akasha
 <h1 align="center">Hey 👋, I'm Akasha</h1>
-<h3 align="center">I'm a IT student and I have a strong interest for the Cybersecurity realm.</h3>
+<h3 align="center">I'm an IT student and I have a strong interest for the Cybersecurity realm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akasha53&label=Profile%20views&color=0e75b6&style=flat" alt="akasha53" /> </p>
 
@@ -18,5 +18,7 @@ My Root-me-status:
 
 Try Hack Me satus :
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png" alt="Your Image Badge" />
 
-<p>  <img src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png" alt="TryHackMe"> </p>
+[Link to it ](https://tryhackme.com/r/p/Akasha53)
+

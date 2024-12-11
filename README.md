@@ -1,5 +1,5 @@
 # Akasha
-<h1 align="center">Hey 👋, I'm [Akasha](https://akasha53.github.io)</h1>
+<h1 align="center">Hey 👋, I'm <a href="https://akasha53.github.io">Akasha</a></h1>
 <h3 align="center">I'm an IT student and I have a strong interest for the Cybersecurity realm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akasha53&label=Profile%20views&color=0e75b6&style=flat" alt="akasha53" /> </p>

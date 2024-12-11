@@ -1,12 +1,12 @@
 # Akasha
-<h1 align="center">Hey 👋, I'm Akasha</h1>
+<h1 align="center">Hey 👋, I'm [Akasha](https://akasha53.github.io)</h1>
 <h3 align="center">I'm an IT student and I have a strong interest for the Cybersecurity realm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akasha53&label=Profile%20views&color=0e75b6&style=flat" alt="akasha53" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> Discord : paktol
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Discord : [paktol](https://discord.com/users/1059144378892951643)
+<p align="left"> Discord : <a href="https://discord.com/users/1059144378892951643"> paktol</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

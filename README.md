@@ -22,5 +22,5 @@ Root Me Status:
 
 <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Akasha5300&style=allblue&gstats=show" />
 
-
+[Link to it ](https://www.root-me.org/Akasha5300)
 

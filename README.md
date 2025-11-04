@@ -15,6 +15,7 @@
 Try Hack Me satus :
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png" alt="Your Image Badge" />
+<img src="https://root-me-diff.vercel.app/rm-gh?nickname=Akasha5300&style=allblue&gstats=show" />
 
 [Link to it ](https://tryhackme.com/r/p/Akasha53)
 

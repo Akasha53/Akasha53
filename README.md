@@ -1,26 +1,37 @@
-# Akasha
-<h1 align="center">Hey 👋, I'm <a href="https://akasha53.github.io">Akasha</a></h1>
-<h3 align="center">I'm an IT student and I have a strong interest for the Cybersecurity realm.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akasha53&label=Profile%20views&color=0e75b6&style=flat" alt="akasha53" /> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> Discord : <a href="https://discord.com/users/1059144378892951643"> paktol</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akasha53/Akasha53/main/assets/banner-dark.svg">
+    <img alt="akasha@localhost: ~" src="https://raw.githubusercontent.com/Akasha53/Akasha53/main/assets/banner-light.svg" width="880">
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://tryhackme.com/r/p/Akasha53"><code>tryhackme · Akasha53</code></a>
+  &nbsp;
+  <a href="https://www.root-me.org/Akasha5300"><code>root-me · Akasha5300</code></a>
+  &nbsp;
+  <a href="https://discord.com/users/1059144378892951643"><code>discord · paktol</code></a>
+</p>
 
-Try Hack Me satus :
+### ~/about
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png" alt="Your Image Badge" />
+I build applications around language models, then spend the rest of my time looking for the place where they give way. The two halves feed each other: writing the backend teaches you where the trust boundaries end up, and attacking one teaches you which of them were decorative.
 
-[Link to it ](https://tryhackme.com/r/p/Akasha53)
+Python and TypeScript most days, Swift and Kotlin when the target is a phone. CTF player since high school.
 
-Root Me Status:
+### ~/public
 
-<img src="https://root-me-diff.vercel.app/rm-gh?nickname=Akasha5300&style=allblue&gstats=show" />
+- **[Ananta](https://github.com/Akasha53/Ananta)** — local-first OSINT platform. FastAPI backend, Celery workers for long scans, and a local model served through `text-generation-webui` that turns raw tool output into a readable report. Nothing is sent to a third-party cloud.
+- **[WikiHack](https://github.com/Akasha53/WikiHack)** — a terminal cheat sheet of common web vulnerabilities with exploitation examples, written in French for last-minute revision before a CTF.
 
-[Link to it ](https://www.root-me.org/Akasha5300)
+Everything else lives in private repositories.
 
+### ~/stack
+
+`python` `typescript` `swift` `kotlin` `fastapi` `postgresql` `celery` `docker` `linux`
+
+### ~/lab
+
+<a href="https://tryhackme.com/r/p/Akasha53"><img alt="TryHackMe" width="340" src="https://tryhackme-badges.s3.amazonaws.com/Akasha53.png"></a>
+
+Root-Me lives under [Akasha5300](https://www.root-me.org/Akasha5300).
